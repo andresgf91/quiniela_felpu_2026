@@ -1,0 +1,429 @@
+{
+  "picks": {
+    "version": 1,
+    "matches": {
+      "bfbb0ef6-31e6-4424-8261-01e64d3d8fa7": {
+        "home": 2,
+        "away": 0
+      },
+      "1bd84e2a-8a88-45c4-92b3-b5cf7ab683d8": {
+        "home": 1,
+        "away": 1
+      },
+      "c7f428fb-658c-4ab8-b202-f50a981135eb": {
+        "home": 2,
+        "away": 1
+      },
+      "1404be12-c2d4-42a0-95bf-0ce22e03f9ee": {
+        "home": 2,
+        "away": 1
+      },
+      "724e152d-de47-4934-ae2b-51232285831f": {
+        "home": 1,
+        "away": 0
+      },
+      "c6da7266-c57a-4693-8279-90b3ba2f183b": {
+        "home": 1,
+        "away": 1
+      },
+      "db370218-4f7d-4514-97a4-2c80d533ddfb": {
+        "home": 1,
+        "away": 2
+      },
+      "66146cfc-2db3-4363-8bcc-940bf04517c8": {
+        "home": 1,
+        "away": 3
+      },
+      "a2dc8799-9171-4fc0-a1f0-c57995da1a1a": {
+        "home": 3,
+        "away": 0
+      },
+      "3f94f7ee-7663-4206-ab9c-3e5da0cc9a65": {
+        "home": 1,
+        "away": 1
+      },
+      "7bf68b54-803a-4864-a6ca-0170c3fc63e6": {
+        "home": 1,
+        "away": 0
+      },
+      "33421e1a-82f8-402d-8e29-c504bb6f3bc9": {
+        "home": 2,
+        "away": 1
+      },
+      "46cc571d-67e3-4429-bbe5-201b84ec2a41": {
+        "home": 3,
+        "away": 0
+      },
+      "a2d01a3c-d2ed-425e-8625-29a29cc7427d": {
+        "home": 2,
+        "away": 1
+      },
+      "794fbae9-21d5-4579-8fee-18fca2bc32d2": {
+        "home": 0,
+        "away": 2
+      },
+      "6d3359eb-6edd-4eb5-a888-5169bd9299bd": {
+        "home": 1,
+        "away": 0
+      },
+      "c8bcac20-6027-48fb-a2ca-bc5d656eb74c": {
+        "home": 2,
+        "away": 1
+      },
+      "f466d657-55b0-486e-ad51-bb3c7026d23c": {
+        "home": 0,
+        "away": 3
+      },
+      "db471052-db8b-4982-9b3a-09407ed2a25f": {
+        "home": 2,
+        "away": 0
+      },
+      "dbc377fe-3a7e-49ea-ae7e-fb151cfbc034": {
+        "home": 2,
+        "away": 0
+      },
+      "2582dac2-5c18-4f90-a05c-4eb50a3276fb": {
+        "home": 2,
+        "away": 0
+      },
+      "353fee03-018a-4802-b597-587e90c02f9e": {
+        "home": 1,
+        "away": 0
+      },
+      "7a83303e-1401-4813-85f9-9d968b57f9de": {
+        "home": 1,
+        "away": 0
+      },
+      "4c189d08-2821-4d7b-93f3-4c636e2e7d79": {
+        "home": 0,
+        "away": 2
+      },
+      "560bae0f-57c5-4b14-9930-a9c8dd9db6f4": {
+        "home": 2,
+        "away": 0
+      },
+      "c1d5ef26-dd9e-4245-bb60-aebeb5fb2ca8": {
+        "home": 2,
+        "away": 0
+      },
+      "cf78416f-2356-42f0-be3d-db7e11910d49": {
+        "home": 2,
+        "away": 1
+      },
+      "15dcb20c-32c0-4711-87ea-d9ba57ac94e4": {
+        "home": 2,
+        "away": 1
+      },
+      "2cc0d0f0-1c26-4df6-bd20-f2ae56b15509": {
+        "home": 2,
+        "away": 0
+      },
+      "8107ac98-d140-4f5f-8666-82560a1b0321": {
+        "home": 0,
+        "away": 2
+      },
+      "7137110e-5d7b-42dc-b04f-f28eb851bef0": {
+        "home": 3,
+        "away": 0
+      },
+      "3453340e-6d7e-49ca-b6c3-9952e434c2c6": {
+        "home": 2,
+        "away": 0
+      },
+      "e6c57233-97d0-45a5-b90e-fbdafa1f97d9": {
+        "home": 2,
+        "away": 0
+      },
+      "a7f4a766-5e8a-4205-b512-34a7f70ef6d6": {
+        "home": 2,
+        "away": 1
+      },
+      "4a3b4b09-ddd2-4eb8-899d-ccf0d70d1a9d": {
+        "home": 2,
+        "away": 0
+      },
+      "68555cd8-6c9e-4f7a-87c5-f7004dc76449": {
+        "home": 0,
+        "away": 2
+      },
+      "a614c941-0b08-469d-8761-fcabcf888bb2": {
+        "home": 2,
+        "away": 0
+      },
+      "2139eaf6-b5e7-4395-bcaa-b49beecf69b2": {
+        "home": 1,
+        "away": 1
+      },
+      "2a71792e-7631-4450-944b-9a6ba742bc35": {
+        "home": 2,
+        "away": 0
+      },
+      "ac8a6204-d6cf-4e82-9c08-4eaff60a5f7b": {
+        "home": 0,
+        "away": 2
+      },
+      "1821396c-8541-48dd-8e4a-a21bdb219235": {
+        "home": 2,
+        "away": 0
+      },
+      "83d28e5b-30c8-4ea9-9c78-57428dd3b09c": {
+        "home": 3,
+        "away": 0
+      },
+      "f7567719-5946-4873-beab-f61449a6705e": {
+        "home": 1,
+        "away": 1
+      },
+      "48626235-8852-43e4-a183-f24809cc082e": {
+        "home": 1,
+        "away": 3
+      },
+      "b7bcc840-1297-4fa0-bc20-90ec5500f775": {
+        "home": 3,
+        "away": 0
+      },
+      "248f159f-dcfb-44b0-afe8-892a27601da5": {
+        "home": 2,
+        "away": 0
+      },
+      "12b76611-b0cf-4b19-a477-0be05825bc92": {
+        "home": 1,
+        "away": 2
+      },
+      "3d64dffd-40b8-4b97-a3be-71836a1d3a2b": {
+        "home": 2,
+        "away": 0
+      },
+      "a807edd6-57c5-465c-8fae-4566bc388f12": {
+        "home": 1,
+        "away": 1
+      },
+      "e6ff7b1c-9540-4d2f-8d80-460481e204ee": {
+        "home": 2,
+        "away": 1
+      },
+      "65b16356-3451-4fcd-b31d-9ca35ae8a46a": {
+        "home": 0,
+        "away": 2
+      },
+      "f3c8f8e4-0ce7-4bb5-9ae1-6377bf434dbc": {
+        "home": 3,
+        "away": 0
+      },
+      "dea419fe-141b-42b3-b3f6-863fac5d00ae": {
+        "home": 1,
+        "away": 1
+      },
+      "32f16dff-02db-4f6e-82f6-bb554b4e429d": {
+        "home": 0,
+        "away": 2
+      },
+      "84362f29-b435-4f8d-923d-8b10c16392a1": {
+        "home": 1,
+        "away": 1
+      },
+      "a917a652-0ec4-4196-9109-05f9dd888e28": {
+        "home": 0,
+        "away": 2
+      },
+      "97fa1830-ebde-41d9-9f81-30d07a0f6009": {
+        "home": 1,
+        "away": 2
+      },
+      "aa0c45de-8f34-46c8-8c8d-224c0c5bea13": {
+        "home": 2,
+        "away": 1
+      },
+      "076631f7-b22a-406b-a5d4-e0834aca8324": {
+        "home": 1,
+        "away": 1
+      },
+      "e7d97d64-110d-417d-91d6-ddcfc8bbcfc0": {
+        "home": 0,
+        "away": 1
+      },
+      "858b9066-131b-419d-88a6-c1f71dc27a08": {
+        "home": 1,
+        "away": 1
+      },
+      "f2ddfea0-3717-4991-9f32-10b623bccbb7": {
+        "home": 2,
+        "away": 0
+      },
+      "6d390f8e-ff6d-4f14-9f59-2bfeaf68cda1": {
+        "home": 1,
+        "away": 1
+      },
+      "63419251-46e7-4503-b913-671d67f26469": {
+        "home": 1,
+        "away": 2
+      },
+      "1f91391c-5efd-424b-a7b7-0feeae19610d": {
+        "home": 0,
+        "away": 3
+      },
+      "17b050da-d99c-4577-ab38-dda7bc882acc": {
+        "home": 1,
+        "away": 1
+      },
+      "51de20fe-0316-4127-8f83-e09a9fd7b342": {
+        "home": 0,
+        "away": 3
+      },
+      "d03bce5a-d1a4-4e33-8ce5-a2bc65cd28c9": {
+        "home": 2,
+        "away": 0
+      },
+      "559a3d18-cc01-471b-8118-8a3272250856": {
+        "home": 0,
+        "away": 1
+      },
+      "efee9208-6e4e-4f11-82ab-a14824f4edb4": {
+        "home": 1,
+        "away": 1
+      },
+      "fc988208-9aa6-48f3-b497-d6d2d7bfb83d": {
+        "home": 0,
+        "away": 3
+      },
+      "66cd6767-b4ae-4078-a986-eaf8340e8507": {
+        "home": 1,
+        "away": 2
+      },
+      "ffec2e73-01e2-4825-8d9d-021fbb9942a4": {
+        "home": 1,
+        "away": 2
+      },
+      "5063cd5e-4a04-4be7-946f-d937726c12b8": {
+        "home": 3,
+        "away": 1
+      },
+      "78600915-39e1-47e5-b85a-2d6bb14d38de": {
+        "home": 2,
+        "away": 1
+      },
+      "6a0aaa0c-405c-4b0f-8f0d-e23ae2239f79": {
+        "home": 2,
+        "away": 1
+      },
+      "d244d55e-4e15-42ef-b496-440b7bfe5b6f": {
+        "home": 3,
+        "away": 0
+      },
+      "15cf26ff-7d91-4a3d-a907-9276b32fb20c": {
+        "home": 1,
+        "away": 2
+      },
+      "1c4d4c5e-1cfb-46ce-b7e6-deaa309278da": {
+        "home": 2,
+        "away": 1
+      },
+      "edf0d1ee-df7f-40ac-b7df-63d21a82d0b2": {
+        "home": 2,
+        "away": 0
+      },
+      "56da87fb-2eba-49a8-b0b6-385a5c29abc9": {
+        "home": 2,
+        "away": 0
+      },
+      "ea9cd330-25e3-493f-a41d-1ae9864e4b5a": {
+        "home": 2,
+        "away": 1
+      },
+      "cb827565-c439-40b4-ab0e-a73337778ae0": {
+        "home": 2,
+        "away": 1
+      },
+      "d7b0db36-bd3d-4b08-a2ce-9f880e8e2f58": {
+        "home": 2,
+        "away": 0
+      },
+      "a263ab91-3bc0-46b1-8623-d80c7ab3168d": {
+        "home": 1,
+        "away": 0
+      },
+      "1cfeb01c-4c4b-474d-bee9-405c24eb77a2": {
+        "home": 2,
+        "away": 1
+      },
+      "9d30b453-b238-4ac0-ba35-6b1b7482b579": {
+        "home": 2,
+        "away": 1
+      },
+      "7d66fa75-9036-4c2e-9779-2d821477ffe7": {
+        "home": 2,
+        "away": 0
+      },
+      "c16ab4c6-ff8d-4404-99a7-3e0e24e07c8e": {
+        "home": 1,
+        "away": 2
+      },
+      "83e46b2a-6b31-4684-8747-25918dd38451": {
+        "home": 0,
+        "away": 2
+      },
+      "3a58ae93-670b-4e89-ba62-2efde31c0842": {
+        "home": 2,
+        "away": 1
+      },
+      "6b8b340c-f0d0-4fc0-9a3e-d013376c8366": {
+        "home": 1,
+        "away": 2
+      },
+      "79d01535-181c-4b23-a51f-723c7f1c46ab": {
+        "home": 1,
+        "away": 3
+      },
+      "f3d0e385-57a5-4fc8-9c70-7228f6ab6e8f": {
+        "home": 2,
+        "away": 1
+      },
+      "e010386f-24d3-46b1-a972-2a1286bf40d2": {
+        "home": 2,
+        "away": 0
+      },
+      "ddc7125d-fdb5-4d11-9eee-83395719e13a": {
+        "home": 1,
+        "away": 2
+      },
+      "db196c79-5ea2-41fb-b96f-7617ca393d39": {
+        "home": 2,
+        "away": 1
+      },
+      "14f9e414-5d8b-45e3-a451-63154634e8fb": {
+        "home": 3,
+        "away": 1
+      },
+      "f2042f20-2929-45db-a5b5-8bf5b44a1e41": {
+        "home": 1,
+        "away": 1,
+        "penalty_winner_team_id": "cb257eb1-67da-4c92-bb15-89194ec15fa5"
+      },
+      "94cc9848-9428-4a17-8eab-e7e345cfc58b": {
+        "home": 2,
+        "away": 1
+      },
+      "700a3ccf-47dc-4073-8f29-cf7e0800e694": {
+        "home": 1,
+        "away": 2
+      },
+      "b5024463-def8-4651-90ea-f587436bdc01": {
+        "home": 1,
+        "away": 1,
+        "penalty_winner_team_id": "41dc9827-ce55-4aa1-866c-06cb5cb0d187"
+      },
+      "2c62dee2-bb1b-4ea0-a4c4-691830553999": {
+        "home": 2,
+        "away": 0
+      },
+      "8a9a58e6-01bd-47cd-a5d6-c5a15ee0fbe8": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    "champion_team_id": "78d1a22b-36c5-487c-bd87-bedeb724d41a",
+    "tiebreak_overrides": {}
+  },
+  "champion_team_id": "78d1a22b-36c5-487c-bd87-bedeb724d41a",
+  "submitted": false
+}

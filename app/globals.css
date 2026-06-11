@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a1628;
+  --foreground: #f5f5f5;
+  --gold: #d4af37;
+  --gold-dim: #a8892f;
+  --glass: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.12);
+  --card: rgba(15, 30, 55, 0.75);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-gold: var(--gold);
+  --color-gold-dim: var(--gold-dim);
+  --color-glass: var(--glass);
+  --font-sans: var(--font-geist-sans);
+}
+
+body {
+  background: radial-gradient(ellipse at top, #12243f 0%, #0a1628 50%, #050d18 100%);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+.glass-card {
+  background: var(--card);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: 1rem;
+}
+
+.gold-text {
+  color: var(--gold);
+}
+
+.input-score {
+  width: 3rem;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--glass-border);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+}
+
+.input-score:focus {
+  outline: none;
+  border-color: var(--gold);
+  box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.25);
+}
